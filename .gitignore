@@ -19,9 +19,8 @@
 *.pdb
 
 #CMake
-*.build
-*src/
-CMakeLists.txt
+*build
+*CMakeLists.txt
 
 # Temporary files
 *.obj
@@ -39,7 +38,7 @@ CMakeLists.txt
 *.log
 *.vspscc
 *.vssscc
-.builds
+*.builds
 *.pidb
 *.svclog
 *.pfx
