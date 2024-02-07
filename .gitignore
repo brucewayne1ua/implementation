@@ -20,7 +20,7 @@
 
 #CMake
 *build
-*CMakeLists.txt
+# *CMakeLists.txt
 
 # Temporary files
 *.obj
