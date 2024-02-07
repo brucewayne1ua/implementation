@@ -43,7 +43,5 @@ public:
 };
 
 int main() {
-    String s = {'a', 'b', 'c', 'd', 'e'};
-
-    
+    String s = {'a', 'b', 'c', 'd', 'e', 'f'};
 }
