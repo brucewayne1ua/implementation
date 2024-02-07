@@ -1,0 +1,76 @@
+# Visual Studio Code
+.vscode/
+
+# Visual Studio 2022
+# Project and solution files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Executables and binaries
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.pdb
+
+#CMake
+*.build
+*.CMakeLists.txt
+
+# Temporary files
+*.obj
+*.pch
+*.idb
+*.pdb
+*.ipch
+*.suo
+*.cachefile
+*.ilk
+*.manifest
+*.log
+*.tlog
+*.tlog/*
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.pfx
+*.snk
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.ncb
+*.sdf
+*.sbr
+*.sdf
+*.map
+*.zip
+*.tmp
+*.log
+*.log.xml
+*.xmlfilter
+*.lib
+
+# Visual Studio user settings files
+*.user
+*.suo
+*.cache
+*.csproj.user
+*.pidb
+*.sln.docstates
+
+# Visual Studio Code files
+.vscode/
+
+# Visual Studio localization files
+*.i18n.dll
+*.xpt
