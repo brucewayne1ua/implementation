@@ -4,5 +4,6 @@
 
 int main() {
     String s = "hello";
-    
+
+    std::cout << s'\n';
 }
