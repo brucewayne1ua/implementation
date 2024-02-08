@@ -1,9 +1,7 @@
 
 
-#include "a_string.h"
+#include "../include/wstring.h"
 
 int main() {
-    String s = "hello";
-
-    std::cout << s'\n';
+    String s = "hello"; // ERORR
 }
