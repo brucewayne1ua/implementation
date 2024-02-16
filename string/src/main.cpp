@@ -8,7 +8,6 @@
 #include "../include/string.hpp"
 
 
-/* Copy constructor */
 void first_test()
 {
     rsl::String s = { 'a', 'b', 'c' }; 
