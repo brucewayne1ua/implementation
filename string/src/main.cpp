@@ -1,8 +1,3 @@
-/**
- * Implementation of std::string.
- * The main.cpp file will only write tests for my std::string implementation.
- * Also, anyone can write their own tests in my code and request a "Pull Request"
- */
 
 
 #include "../include/string.hpp"

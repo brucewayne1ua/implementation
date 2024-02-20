@@ -1,11 +1,11 @@
-#ifndef STRING_HPP
-#define STRING_HPP
 
+#pragma once
 
 #include <iostream>
 #include <algorithm>
 #include <initializer_list> 
 #include <cstring>
+
 
 namespace rsl
 {
@@ -26,7 +26,7 @@ namespace rsl
         }
 
     public:
-        /* Constructors */
+           
         String() = default;
     
 
@@ -55,7 +55,7 @@ namespace rsl
 
 
     public:
-        /* Operators */
+        
         String& operator=(const String& other)
         {
             if (this == &other) return *this; 
@@ -81,7 +81,7 @@ namespace rsl
 
 
     public:
-        /* Functions */
+        
         int length()
         {
             return size;
@@ -91,7 +91,4 @@ namespace rsl
     };
 
 
-} // namespace rsl
-
-
-#endif // STRING_HPP
+} 
