@@ -1,6 +1,6 @@
 # Visual Studio Code
 .vscode/
-
+.vs/
 # Visual Studio 2022
 # Project and solution files
 *.sln
